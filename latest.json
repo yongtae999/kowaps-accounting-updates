@@ -2,17 +2,17 @@
   "manifest_version": 1,
   "product": "association-accounting-system",
   "channel": "stable",
-  "version": "2.0.1",
-  "published_at": "2026-07-16T05:22:20+00:00",
+  "version": "2.0.2",
+  "published_at": "2026-07-16T05:57:11+00:00",
   "mandatory": false,
   "database_schema": {
     "min": 9,
     "max": 11
   },
-  "release_notes": "v2.0.1: 지부별 계좌 수에 맞춘 동적 자금일보, 계좌 ID 기준 잔액 계산, 다계좌 자동 페이지 구성",
+  "release_notes": "v2.0.2: 표준 Windows 설치 마법사, 설치 위치·시작 메뉴·바탕화면 바로가기 선택, 업그레이드 자료 보존 안내, 설치된 앱 지원·업데이트 정보 등록",
   "installer": {
-    "url": "https://github.com/yongtae999/kowaps-accounting-updates/releases/download/v2.0.1/AssociationAccounting-Setup-v2.0.1.exe",
-    "sha256": "e7e6076814d37828c37c030b390768cc12cd3b498ece603588550c07df307bf7",
-    "size": 18501486
+    "url": "https://github.com/yongtae999/kowaps-accounting-updates/releases/download/v2.0.2/AssociationAccounting-Setup-v2.0.2.exe",
+    "sha256": "664f24a3d97ef487c35816cc53d760f10dddf5fec8ba3c31ab77f5da509ae864",
+    "size": 18463439
   }
 }
