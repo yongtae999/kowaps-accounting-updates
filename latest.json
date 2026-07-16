@@ -1,0 +1,18 @@
+{
+  "manifest_version": 1,
+  "product": "association-accounting-system",
+  "channel": "stable",
+  "version": "2.0.0",
+  "published_at": "2026-07-16T04:38:43+00:00",
+  "mandatory": false,
+  "database_schema": {
+    "min": 9,
+    "max": 11
+  },
+  "release_notes": "정식 v2.0.0: 연도마감, 감사, 표준 백업·복원, 안전 동기화, GitHub 자동 업데이트",
+  "installer": {
+    "url": "https://github.com/yongtae999/kowaps-accounting-updates/releases/download/v2.0.0/%ED%98%91%ED%9A%8C%ED%9A%8C%EA%B3%84%EA%B4%80%EB%A6%AC%EB%B3%B4%EC%A1%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-Setup-v2.0.0.exe",
+    "sha256": "5acb97cef6332887f5e95a689c58e07cdb5922175e5dea0bb1ec00c4487757a5",
+    "size": 18491321
+  }
+}
