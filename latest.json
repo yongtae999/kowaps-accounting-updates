@@ -2,17 +2,17 @@
   "manifest_version": 1,
   "product": "association-accounting-system",
   "channel": "stable",
-  "version": "2.0.3",
-  "published_at": "2026-07-16T08:27:54+00:00",
+  "version": "2.0.4",
+  "published_at": "2026-07-17T00:06:08+00:00",
   "mandatory": false,
   "database_schema": {
     "min": 9,
     "max": 11
   },
-  "release_notes": "v2.0.3: 신규 설치 기초자료의 실제 계좌번호를 안전한 000 계열 임의번호로 교체하고 기존 운영 DB는 그대로 보존",
+  "release_notes": "v2.0.4: 자금일보는 수입·지출을 각각 판정하여 9건 이하는 본표에 표시하고 10건 이상은 해당 구분 전체내역을 세로형 별지로 출력합니다.",
   "installer": {
-    "url": "https://github.com/yongtae999/kowaps-accounting-updates/releases/download/v2.0.3/AssociationAccounting-Setup-v2.0.3.exe",
-    "sha256": "4af9a54a45c735a20e8f6aca2c25c6b1d648abb99a26cb09ccc565dffcf0a776",
-    "size": 18467509
+    "url": "https://github.com/yongtae999/kowaps-accounting-updates/releases/download/v2.0.4/AssociationAccounting-Setup-v2.0.4.exe",
+    "sha256": "2e8ccccc19ba9acbf687a046d15e305068f0e24ddd8bb4f1f609f80498471393",
+    "size": 18467505
   }
 }
