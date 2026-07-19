@@ -2,17 +2,17 @@
   "manifest_version": 1,
   "product": "association-accounting-system",
   "channel": "stable",
-  "version": "2.0.4",
-  "published_at": "2026-07-17T00:06:08+00:00",
+  "version": "2.2.3",
+  "published_at": "2026-07-19T05:09:32+00:00",
   "mandatory": false,
   "database_schema": {
     "min": 9,
-    "max": 11
+    "max": 13
   },
-  "release_notes": "v2.0.4: 자금일보는 수입·지출을 각각 판정하여 9건 이하는 본표에 표시하고 10건 이상은 해당 구분 전체내역을 세로형 별지로 출력합니다.",
+  "release_notes": "v2.2.3: 보조금 실집행 수정 및 날짜 8자리 자동변환 지원",
   "installer": {
-    "url": "https://github.com/yongtae999/kowaps-accounting-updates/releases/download/v2.0.4/AssociationAccounting-Setup-v2.0.4.exe",
-    "sha256": "2e8ccccc19ba9acbf687a046d15e305068f0e24ddd8bb4f1f609f80498471393",
-    "size": 18467505
+    "url": "https://github.com/yongtae999/kowaps-accounting-updates/releases/download/v2.2.3/AssociationAccounting-Setup-v2.2.3.exe",
+    "sha256": "d41d9622da5ee0ddfd378173a9d54e262a291dc5c45b2f37be1b1c0c1f1f6209",
+    "size": 18507118
   }
 }
